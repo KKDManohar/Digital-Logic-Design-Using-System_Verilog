@@ -1,0 +1,142 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s12c _opt2
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/RTL Design/8 to 1 Multiplexer
+T_opt1
+!s110 1738310311
+V^Wl26jXhP[:l^bnlVk2H@3
+Z3 04 3 4 work top fast 0
+=1-4cd71798b23c-679c82a6-1a9-c7f0
+R1
+Z4 !s12f OEM100
+Z5 !s12b OEM100
+Z6 !s124 OEM100
+Z7 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z8 tCvgOpt 0
+n@_opt1
+Z9 OL;O;2024.2;79
+T_opt2
+!s110 1738280055
+V:F[oR9=c8OEk6lcd3Y@kl3
+R3
+=1-4cd7179a8f3f-679c0c77-6-1878
+!s102 +cover=bcesf
+R1
+R4
+R5
+R6
+R7
+o-quiet -auto_acc_if_foreign -work work +cover=bcesf
+R8
+n@_opt2
+R9
+R2
+vMux2to1
+Z10 2multiplexer.sv
+Z11 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z12 !s110 1738310307
+!i10b 1
+!s100 TeZdaT`oB[cDFF7IQOZIR3
+IEQBLezcoSj8T9WA1GRfLH1
+S1
+R2
+Z13 w1738279022
+Z14 8multiplexer.sv
+Z15 Fmultiplexer.sv
+!i122 40
+L0 1 14
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+Z17 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z18 !s108 1738310306.000000
+Z19 !s107 multiplexer.sv|
+Z20 !s90 -reportprogress|300|-lint|-source|multiplexer.sv|
+!i113 0
+Z21 o-lint -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+n@mux2to1
+vMux8to1
+R10
+R11
+R12
+!i10b 1
+!s100 fNYC:_>k<k_zg9T7ajP3B3
+IQRAB<>AP8IYcmiM@S>l2<1
+S1
+R2
+R13
+R14
+R15
+!i122 40
+L0 16 19
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R8
+n@mux8to1
+vtop
+2mux_tb.sv
+R11
+R12
+!i10b 1
+!s100 F1Rck:X;8DP?DNGa]K=ZJ0
+IITzmlTYkEZ4`HQjVWKo5n2
+S1
+R2
+w1738310302
+8mux_tb.sv
+Fmux_tb.sv
+!i122 41
+L0 1 61
+R16
+R17
+r1
+!s85 0
+31
+!s108 1738310307.000000
+!s107 mux_tb.sv|
+!s90 -reportprogress|300|-lint|-source|mux_tb.sv|
+!i113 0
+R21
+R8
