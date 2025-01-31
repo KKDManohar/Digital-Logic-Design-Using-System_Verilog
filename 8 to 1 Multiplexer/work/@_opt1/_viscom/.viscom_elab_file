@@ -1,1 +1,0 @@
-C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.top -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt1 -id 1-4cd71798b23c-679c82a6-1a9-c7f0 {+__design_bin_path+//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/RTL Design/8 to 1 Multiplexer} +__betafsm
