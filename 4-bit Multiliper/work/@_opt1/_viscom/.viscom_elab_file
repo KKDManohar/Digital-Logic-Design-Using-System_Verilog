@@ -1,1 +1,0 @@
-C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.tb -quiet -auto_acc_if_foreign -work work +cover=bcesf -allow_unnamed -o _opt1 -id 1-4cd71798932b-67b7a5fb-2db-832c {+__design_bin_path+//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/RTL Design/4-bit Multiliper} +__betafsm
