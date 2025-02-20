@@ -1,0 +1,179 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+Z2 !s12c _opt
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 d//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/RTL Design/4-bit Multiliper
+T_opt
+!s110 1740088773
+VNJgETi;AHMfdLk8MKK;1:3
+Z4 04 2 4 work tb fast 0
+=1-4cd71798932b-67b7a5c4-380-3880
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2024.2;79
+R3
+T_opt1
+!s110 1740088828
+VNG8^7oTB64W=9V6Q3H@0c2
+R4
+=1-4cd71798932b-67b7a5fb-2db-832c
+!s102 +cover=bcesf
+R1
+R5
+R6
+R7
+R8
+o-quiet -auto_acc_if_foreign -work work +cover=bcesf
+R9
+n@_opt1
+R10
+vFullAdder
+2FullAdder.sv
+Z11 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z12 !s110 1740088769
+!i10b 1
+!s100 cIclL7O180^g:oCPDE98n3
+IV5NGaB8Xe0g1bDNMn_QGO3
+S1
+R3
+w1740084815
+8FullAdder.sv
+FFullAdder.sv
+!i122 1
+L0 1 13
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z15 !s108 1740088768.000000
+!s107 FullAdder.sv|
+!s90 -reportprogress|300|-lint|-source|FullAdder.sv|
+!i113 0
+Z16 o-lint -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+n@full@adder
+vHalfAdder
+2HalfAdder.sv
+R11
+!s110 1740088768
+!i10b 1
+!s100 XV29K>mbQYzKbAP0_PmS]3
+IZ^<iOHlJQV]l_@<WH45Kh0
+S1
+R3
+w1740084710
+8HalfAdder.sv
+FHalfAdder.sv
+!i122 0
+L0 1 11
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 HalfAdder.sv|
+!s90 -reportprogress|300|-lint|-source|HalfAdder.sv|
+!i113 0
+R16
+R9
+n@half@adder
+vkgd
+Z17 2Multiplier_tb.sv
+R11
+R12
+!i10b 1
+!s100 KU^Tzdgk5]NXXTSej7NJ<1
+I8d]H_k5;_Y<7F:RBnCeMU1
+S1
+R3
+Z18 w1740088764
+Z19 8Multiplier_tb.sv
+Z20 FMultiplier_tb.sv
+!i122 3
+L0 1 18
+R13
+R14
+r1
+!s85 0
+31
+Z21 !s108 1740088769.000000
+Z22 !s107 Multiplier_tb.sv|
+Z23 !s90 -reportprogress|300|-lint|-source|Multiplier_tb.sv|
+!i113 0
+R16
+R9
+vMultipilier
+2Multplier.sv
+R11
+R12
+!i10b 1
+!s100 2iV<Y?K3>7oOe>fYI7<BA3
+Ii]:IBXVEd90DFU^eG?IOS3
+S1
+R3
+w1740084876
+8Multplier.sv
+FMultplier.sv
+!i122 2
+L0 1 48
+R13
+R14
+r1
+!s85 0
+31
+R21
+!s107 Multplier.sv|
+!s90 -reportprogress|300|-lint|-source|Multplier.sv|
+!i113 0
+R16
+R9
+n@multipilier
+vtb
+R17
+R11
+R12
+!i10b 1
+!s100 67268FnVi[M>5zH4F:zil0
+I^gIVIe=dAGhRUzVYa0fZZ1
+S1
+R3
+R18
+R19
+R20
+!i122 3
+L0 20 61
+R13
+R14
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R16
+R9
