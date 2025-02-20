@@ -1,0 +1,1 @@
+C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.top -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt1 -id 1-4cd71798932b-67b52b41-1a0-5b70 {+__design_bin_path+//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/RTL Design/4-bit adder subtractor} +__betafsm
