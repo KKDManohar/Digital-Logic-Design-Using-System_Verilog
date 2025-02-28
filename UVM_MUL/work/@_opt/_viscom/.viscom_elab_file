@@ -1,1 +1,0 @@
-C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 84885792 work.tb -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt -id 1-4cd7179893d5-67c2172c-1cb-202c +__design_bin_path+//thoth.cecs.pdx.edu/Home02/kkarna/Desktop/UVM_MUL +__betafsm
